@@ -2076,7 +2076,7 @@ body {
   border-radius: 50%;
   border: 2px solid #ffffff;
   padding-bottom: 0;
-  color: #080707;
+  color: #ffffff;
 }
 @media (min-width: 768px) {
   .cid-ruh9MxdKso .separline .step-wrapper {
@@ -2170,49 +2170,8 @@ body {
 .cid-rvw3GAVSGt .mbr-text p {
   background: #ffffff;
 }
-.cid-rvw4u5yscu {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #1c0c30;
-}
-.cid-rvw4u5yscu .mbr-text {
-  color: #767676;
-}
-.cid-rvw4u5yscu .mbr-text p {
-  background: #ffffff;
-}
-.cid-rvw4uyvW65 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #1c0c30;
-}
-.cid-rvw4uyvW65 .mbr-text {
-  color: #767676;
-}
-.cid-rvw4uyvW65 .mbr-text p {
-  background: #ffffff;
-}
-.cid-rvw4uXbF8J {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #1c0c30;
-}
-.cid-rvw4uXbF8J .mbr-text {
-  color: #767676;
-}
-.cid-rvw4uXbF8J .mbr-text p {
-  background: #ffffff;
-}
-.cid-rvw4vpAK44 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #1c0c30;
-}
-.cid-rvw4vpAK44 .mbr-text {
-  color: #767676;
-}
-.cid-rvw4vpAK44 .mbr-text p {
-  background: #ffffff;
+.cid-rvw3GAVSGt .mbr-text P {
+  text-align: center;
 }
 .cid-r5QpKdS3p3 {
   padding-top: 45px;
